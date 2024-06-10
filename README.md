@@ -1,4 +1,2 @@
 # MoonR
-my new GDI malware
-
-password - 7gdf546gd
+C++ skidded GDI trojan by pankoza
